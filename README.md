@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Habib Ibrahim Toure 👋</h1>
+<h1 align="center">Hi, I'm Habib Ibrahim Toure</h1>
 <h3 align="center">Computer Science Co-op Student @ University of Ottawa</h3>
 
 <p align="center">
@@ -14,26 +14,26 @@ Building full-stack systems and AI-powered agents from scratch.
 
 ### About me
 
-- 🎓 CS student at the University of Ottawa (Co-op), expected 2028
-- 🛠️ I build full-stack and AI-powered projects on my own time
-- 🤖 Currently exploring LLM agent orchestration, real-time systems, and applied ML
-- 🌍 Bilingual — English / French
-- 📌 Open to internship opportunities in software and AI engineering
+- CS student at the University of Ottawa (Co-op), expected 2028
+- I build full-stack and AI-powered projects on my own time
+- Currently exploring LLM agent orchestration, real-time systems, and applied ML
+- Bilingual — English / French
+- Open to internship opportunities in software and AI engineering
 
 ---
 
 ### What I've been building
 
-**🧠 MARA — Local AI Voice Assistant**
+**MARA — Local AI Voice Assistant**
 A fully local, voice-driven assistant with a parallel Claude Haiku/Sonnet inference pipeline for sub-second response latency, plus system control, browser automation, and encrypted persistent memory.
 
-**📚 Seren — AI Study Companion**
+**Seren — AI Study Companion**
 A Chrome extension (Manifest V3) + web platform with a FastAPI backend and a synced JWT auth session between the extension and the site. Instant AI explanations, summaries, and quizzes on any webpage.
 
-**📈 AITradingAgent — Multi-Agent Trading System**
+**AITradingAgent — Multi-Agent Trading System**
 An event-driven, cycle-based architecture where independent agents publish state to Redis and a decision engine combines signals under strict risk controls. Built with safety-first principles: paper trading before real capital.
 
-**🎸 Fretify — Audio to Guitar Tab**
+**Fretify — Audio to Guitar Tab**
 An ML pipeline using Demucs for source separation and Basic-Pitch for note detection, turning audio/video recordings into guitar tablature.
 
 ---
