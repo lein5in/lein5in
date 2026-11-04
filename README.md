@@ -57,11 +57,4 @@ habib = {
 
 ---
 
-### 📊 GitHub stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lein5in&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lein5in&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center"><i>Calm code, fewer bugs. ☕</i></p>
